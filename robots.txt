@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://21mika.github.io/electra/sitemap.xml

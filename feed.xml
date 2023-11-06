@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Electra</title>
+    <link href="https://21mika.github.io/electra/feed.xml" rel="self" />
+    <link href="https://21mika.github.io/electra" />
+    <updated>2023-11-06T14:42:41+07:00</updated>
+    <author>
+        <name>Mika</name>
+    </author>
+    <id>https://21mika.github.io/electra</id>
+
+    <entry>
+        <title>asdbajdj</title>
+        <author>
+            <name>Mika</name>
+        </author>
+        <link href="https://21mika.github.io/electra/asdbajdj.html"/>
+        <id>https://21mika.github.io/electra/asdbajdj.html</id>
+
+        <updated>2023-11-06T14:42:41+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
